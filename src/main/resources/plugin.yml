@@ -1,0 +1,8 @@
+api: [spigot-plugin, paper-plugin, bukkit-plugin]
+name: Minimal
+version: ${version}
+api-version: 1.20
+description: Minimal plugin for sample.
+author: teruteru128
+website: https://github.com/teruteru128/minimal
+main: com.github.teruteru128.minimal.Main
